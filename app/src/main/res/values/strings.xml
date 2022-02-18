@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash</string>
+    <string name="splash">Splash</string>
+    <string name="home">Welcome to home Page</string>
+</resources>
